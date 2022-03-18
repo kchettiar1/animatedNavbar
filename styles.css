@@ -171,3 +171,8 @@ body {
     opacity: 0;
   }
 }
+
+.main-content {
+  background-color: aliceblue;
+  height: calc(100vh - 11rem);
+}
